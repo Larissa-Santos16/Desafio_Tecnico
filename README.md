@@ -9,34 +9,47 @@ Desafios efetuados, para uma vaga de estágio na empresa Escribo.
 	•	Caso sua função receba o inteiro 11, ela deve retornar 33, resultante do somatório dos números 3, 5, 6, 9 e 10 que são menores que 11.
 
 ## Como usar:
+
 ### Executando no navegador
+
 **1.Clonar o repositório:**
 No terminal, use o comando `git clone https://github.com/Larissa-Santos16/Desafio_Tecnico.git`, para clonar o meu repositório no seu repositório desejado.
-**1.Abra o arquivo no navegador:**
+
+**2.Abra o arquivo no navegador:**
 Para testar o arquivo, você pode abrir o arquivo **index.html** no seu navegador.
-**1.Abra seu Terminal:**
+
+**3.Abra seu Terminal:**
 Após abrir o arquivo no navegador, abra o menu de inspecionar, e vá para a seção terminal(ou console). *Para abrir o terminal, utilize `alt+command+i` no mac,`Ctrl+Shift+I` mo windows, ou clique no botão direito do mouse no seu navegador, e clique em inspecionar. *
-**1.Terminal:**
+
+**4.Terminal:**
 No seu terminal, você pode simplesmente, utilizar a funcão `somatorioInteiros(numero)` e substitua o parametro numero, por um numero de sua escolha, para efetuar seus testes.
 
 ### Executando com o Node.js
+
 **1.Clonar o repositório:**
 No terminal, use o comando `git clone https://github.com/Larissa-Santos16/Desafio_Tecnico.git`, para clonar o meu repositório no seu repositório desejado.
-**1.Node.js:**
+
+**2.Node.js:**
 Certifique-se que você tem o Node.js baixado, para rodar o script.
-**1.Abra o arquivo:**
+
+**3.Abra o arquivo:**
 Para testar o arquivo, você pode abrir o arquivo **Desafio_Tecnico1.js** no seu editor de código favorito, e adicione chamadas à função `somatorioInteiros(numero)` com diferentes valores, no lugar do parâmetro numero, para testar a função com diferentes entradas.
-**1.Terminal:**
+
+**4.Terminal:**
 No seu terminal do seu pc, vá para o diretório onde se localiza o arquivo **Desafio_Tecnico1.js**, utilizando o comando `cd caminho_do_diretorio`, e utilize o comando `node Desafio_Tecnico1.js` e de enter.
 
 ### Executando no editor de código
+
 **1.Clonar o repositório:**
 No terminal, use o comando `git clone https://github.com/Larissa-Santos16/Desafio_Tecnico.git`, para clonar o meu repositório no seu repositório desejado.
-**1.Abra o arquivo:**
+
+**2.Abra o arquivo:**
 Para testar o arquivo, você pode abrir o arquivo **Desafio_Tecnico1.js** no seu editor de código favorito, e adicione chamadas à função `somatorioInteiros(numero)` com diferentes valores, no lugar do parâmetro numero, para testar a função com diferentes entradas.
-**1.Terminal:**
+
+**3.Terminal:**
 Abra o terminal(ou console de depuração) do seu editor de código.
-**1.Execute:**
+
+**4.Execute:**
 Clique no botão de executar em seu editor de código, e veja a saída no console(ou terminal).
 
 
