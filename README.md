@@ -12,7 +12,7 @@ Desafios efetuados, para uma vaga de estágio na empresa Escribo.
 
 ### Executando no navegador
 
-**1.Clonar o repositório:**
+1.**Clonar o repositório:**
 No terminal, use o comando `git clone https://github.com/Larissa-Santos16/Desafio_Tecnico.git`, para clonar o meu repositório no seu repositório desejado.
 
 **2.Abra o arquivo no navegador:**
